@@ -1,0 +1,1 @@
+This folder contains interim data on a local computer. Interim data is not git tracked.

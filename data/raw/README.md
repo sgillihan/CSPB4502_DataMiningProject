@@ -1,0 +1,1 @@
+This folder contains the raw data on a local computer. Raw data is not git tracked.

@@ -1,0 +1,40 @@
+# Ignore raw/intermediate/processed data files
+data/raw/*
+data/interim/*
+data/processed/*
+
+# Allow folder documentation/placeholders if you use them
+!data/raw/README.md
+!data/interim/README.md
+!data/processed/README.md
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+!documents/README.md
+!reports/README.md
+!notebooks/README.md
+
+# Lichess / chess data
+*.pgn
+*.pgn.zst
+*.zst
+*.torrent
+
+# Data outputs
+*.parquet
+*.csv
+
+# Python / notebook junk
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets / OS files
+.env
+.DS_Store
+Thumbs.db

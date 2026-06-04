@@ -1,0 +1,1 @@
+This folder contains the processed data on a local computer. Processed data is not git tracked.

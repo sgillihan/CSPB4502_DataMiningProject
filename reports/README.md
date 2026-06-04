@@ -1,0 +1,1 @@
+This folder will contain report components such as graphs or tables, as well as formal project deliverables
